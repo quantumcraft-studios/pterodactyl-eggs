@@ -7,7 +7,7 @@
     "exported_at": "2024-01-06T19:45:31+01:00",
     "name": "Nodejs 20x (QuantumCraft Studios)",
     "author": "contact@quantumcraft-studios.com",
-    "description": "NodeJs",
+    "description": "Ultra-fast, lightweight and versatile Node.js server, powering web applications with maximum efficiency. Version 20x",
     "features": null,
     "docker_images": {
         "Nodejs 20": "ghcr.io\/quantumcraft-studios\/nodejs_20x:tag"
